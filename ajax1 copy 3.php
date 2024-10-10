@@ -8,4 +8,4 @@ echo json_encode(['price'=>$price_row['price'],'varient_id'=>$price_row['id']]);
 die();
 
 
-?>
+?>sdbhkeaGADGDJVG
